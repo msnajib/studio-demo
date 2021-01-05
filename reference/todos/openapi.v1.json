@@ -257,5 +257,16 @@
         "description": "This returns a list of todos."
       }
     }
+  },
+  "definitions": {
+    "todo": {
+      "title": "todo",
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        }
+      }
+    }
   }
 }
