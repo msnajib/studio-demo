@@ -258,15 +258,5 @@
       }
     }
   },
-  "definitions": {
-    "Model-Todo": {
-      "title": "Model-Todo",
-      "type": "object",
-      "properties": {
-        "id": {
-          "type": "string"
-        }
-      }
-    }
-  }
+  "definitions": {}
 }
