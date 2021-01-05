@@ -258,5 +258,15 @@
       }
     }
   },
-  "definitions": {}
+  "definitions": {
+    "Todos-Model": {
+      "title": "Todos-Model",
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string"
+        }
+      }
+    }
+  }
 }
