@@ -259,8 +259,8 @@
     }
   },
   "definitions": {
-    "Todos-Model": {
-      "title": "Todos-Model",
+    "Model-Todo": {
+      "title": "Model-Todo",
       "type": "object",
       "properties": {
         "id": {
